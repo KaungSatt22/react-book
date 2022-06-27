@@ -1,3 +1,6 @@
+* {
+  -webkit-scroll-snap-type: none;
+}
 .App {
   text-align: center;
 }
